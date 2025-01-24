@@ -51,9 +51,6 @@
 **📊 Top Languages:**  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/your-github-username)  
 
-**🌌 Dynamic Contributions Graph:**  
-[![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=your-github-username&bg_color=1a1b27&color=38bdae&line=6ab04c&point=8bcd50&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 **✨ Special Trophies:**  
 [![Trophy](https://github-profile-trophy.vercel.app/?username=your-github-username&theme=gruvbox&no-frame=true&no-bg=true&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
 
