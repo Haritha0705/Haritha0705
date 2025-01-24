@@ -5,9 +5,11 @@
 ---
 
 🌟 **About Me**:  
+- 🔭 I’m currently a **Student at the University of Westminster**.
 - 🌐 Building scalable and interactive web applications using modern technologies.  
 - 🎯 Passionate about **frontend creativity** and **backend efficiency**.  
 - 🌱 Continuously learning to stay ahead in the world of **web development**.  
+  
 
 ---
 
@@ -39,8 +41,24 @@
 
 ---
 
+📈 **GitHub Stats**:  
+
+**🔥 Streaks and Contributions:**  
+[![GitHub Streak](https://streak-stats.demolab.com?user=your-github-username&theme=radical&hide_border=true)](https://git.io/streak-stats)  
+
+**🚀 Overall Stats:**  
+[![Haritha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical&hide_border=true)](https://github.com/your-github-username)  
+
+**📊 Top Languages:**  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical&hide_border=true)](https://github.com/your-github-username)  
+
+**🌎 Contribution Graph:**  
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=your-github-username&theme=radical)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+---
+
 📫 **Let’s Connect**:  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/haritha-wikramasinha-11ab05271)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/haritha-wikramasinha-11ab05271)  
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/hwikramasinha?s=21)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23f3f3f3.svg?style=for-the-badge&logo=google-chrome&logoColor=black)]()  
 
@@ -52,4 +70,4 @@
 ---
 
 ⚡ **Fun Fact**:  
-I thrive in **hot weather** but dream of **cool Nuarelia mornings** with a cup of tea in hand! ☕  
+I thrive in **hot weather** but dream of **cool Nuwara Eliya mornings** with a cup of tea in hand! ☕  
