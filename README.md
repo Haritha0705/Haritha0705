@@ -1,53 +1,63 @@
-# Hey there! I'm Haritha 👋
+# Hey there, I'm Haritha! 👋
 
-[![Profile views](https://komarev.com/ghpvc/?username=Haritha0705&color=blueviolet)](https://github.com/Haritha0705)
-[![GitHub followers](https://img.shields.io/github/followers/Haritha0705?label=Followers&style=social)](https://github.com/Haritha0705)
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=3FF3A7&vCenter=true&width=480&lines=Fullstack+%7C+Mobile+Dev+%7C+UI%2FUX" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="220" />
+</p>
 
 ---
 
 ## 🚀 About Me
 
-```diff
-+ Fullstack Developer | Mobile App Enthusiast | Student at University of Westminster
-```
-
-- 🌐 Turning ideas into scalable, interactive web apps with modern tech
-- 📱 Building beautiful, high-performance mobile apps with Flutter & Dart
-- 🎨 Creativity on the frontend, performance on the backend
-- 🧠 Lifelong learner—always exploring, always growing
+- 🏫 &nbsp;**Student at University of Westminster**
+- 💻 &nbsp;**Fullstack Developer**: Web & Mobile apps with modern stacks
+- 🌐 &nbsp;Frontend: Clean UI, seamless UX, performance-driven
+- ⚡ &nbsp;Backend: Rest APIs, scalable architectures, secure solutions
+- 🛠️ &nbsp;**Tech Explorer**: Always learning, experimenting, and building
+- 🏆 &nbsp;**Open Source Advocate:** I love collaborating and contributing
 
 ---
 
 ## 🛠️ Tech Toolbox
 
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
-![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat&logo=dart&logoColor=white)
+### 🌍 Web Development
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white)
+
+### 🧩 Backend & APIs
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+### 📱 Mobile Development
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
 
 ---
 
-## ✨ What I'm Up To
+## 🌱 Now
 
-- 🏗️ Crafting innovative web and mobile projects
-- 🤝 Collaborating & contributing to open-source
-- 🔍 Exploring new tools and frameworks
-- 🌱 Always learning something new
+- 🚀 Improving in **Spring Boot & Advanced Flutter**
+- 🧠 Learning **DevOps** and cloud basics
+- 🤝 Looking to collaborate on open source and cool side projects
 
 ---
 
-## 💡 Fun Fact
+## 🌟 Featured Projects
 
-> "Code is like humor. When you have to explain it, it’s bad."  
-> — Cory House
+<!-- 
+Highlight your best work! Uncomment and fill in your real projects.
+- [Project Name](repo-link) – Short description, tech used, and maybe a star badge!
+- [Another Project](repo-link) – Why it's awesome.
+-->
 
 ---
 
@@ -60,13 +70,30 @@
 
 ---
 
-## 🔗 Connect With Me
+## 🔗 Let's Connect!
 
-<!-- Add your social links below! -->
-<!-- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL) -->
-<!-- [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](YOUR_TWITTER_URL) -->
-<!-- [![Portfolio](https://img.shields.io/badge/-Portfolio-24292E?style=flat&logo=github&logoColor=white)](YOUR_PORTFOLIO_URL) -->
+<p>
+  <!-- Add your real links -->
+  <a href="www.linkedin.com/in/haritha-wikramasinha-11ab05271" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="harithawikramasinha2003@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://YOUR-PORTFOLIO.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Portfolio-24292E?style=flat-square&logo=github&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
-> Thanks for stopping by! Happy coding! 🚀
+## 💡 Fun Fact
+
+> "Code is like humor. When you have to explain it, it’s bad."  
+> — Cory House
+
+---
+
+<p align="center">
+  <b>Thanks for visiting my profile! Happy coding! 🚀</b>
+</p>
