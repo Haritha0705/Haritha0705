@@ -1,72 +1,72 @@
-# 👋 Hi, I'm Haritha Wikramasinha  
+# Hey there! I'm Haritha 👋
 
-🚀 **Full Stack Developer** | 🎨 **UI/UX Enthusiast** | 💡 **Problem Solver**
-
----
-
-🌟 **About Me**:  
-- 🌐 Building scalable and interactive web applications using modern technologies.  
-- 🎯 Passionate about **frontend creativity** and **backend efficiency**.  
-- 🌱 Continuously learning to stay ahead in the world of **web development**.  
-- 🔭 I’m currently a **Student at the University of Westminster**.  
+[![Profile views](https://komarev.com/ghpvc/?username=Haritha0705&color=blueviolet)](https://github.com/Haritha0705)
+[![GitHub followers](https://img.shields.io/github/followers/Haritha0705?label=Followers&style=social)](https://github.com/Haritha0705)
 
 ---
 
-🛠 **Tech Stack**:  
+## 🚀 About Me
 
-**Frontend**:  
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)  
-![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)  
-![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white)  
+```diff
++ Fullstack Developer | Mobile App Enthusiast | Student at University of Westminster
+```
 
-**Backend**:  
-![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)  
-![Express.js](https://img.shields.io/badge/Express.js-%23404D59.svg?style=for-the-badge&logo=express&logoColor=white)  
-
-**Tools & Design**:  
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)  
-![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)  
-![Sass](https://img.shields.io/badge/Sass-%23CC6699.svg?style=for-the-badge&logo=sass&logoColor=white)  
-![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-%2306B6D4.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)  
+- 🌐 Turning ideas into scalable, interactive web apps with modern tech
+- 📱 Building beautiful, high-performance mobile apps with Flutter & Dart
+- 🎨 Creativity on the frontend, performance on the backend
+- 🧠 Lifelong learner—always exploring, always growing
 
 ---
 
-🎨 **What I Love**:  
-- ✨ Designing **creative UIs** with seamless user experiences.  
-- 🌍 Exploring **new technologies** and integrating them into innovative projects.  
-- 🏞️ Traveling and drawing inspiration from Sri Lanka’s beautiful landscapes.  
+## 🛠️ Tech Toolbox
+
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat&logo=dart&logoColor=white)
 
 ---
 
-📈 **Dynamic GitHub Stats**:  
+## ✨ What I'm Up To
 
-**🔥 Streaks and Contributions:**  
-[![GitHub Streak](https://streak-stats.demolab.com?user=your-github-username&theme=tokyonight_duo&hide_border=true)](https://git.io/streak-stats)  
-
-**🚀 Overall Stats:**  
-[![Haritha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/your-github-username)  
-
-**📊 Top Languages:**  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/your-github-username)  
-
-**✨ Special Trophies:**  
-[![Trophy](https://github-profile-trophy.vercel.app/?username=your-github-username&theme=gruvbox&no-frame=true&no-bg=true&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
+- 🏗️ Crafting innovative web and mobile projects
+- 🤝 Collaborating & contributing to open-source
+- 🔍 Exploring new tools and frameworks
+- 🌱 Always learning something new
 
 ---
 
-📫 **Let’s Connect**:  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/haritha-wikramasinha-11ab05271)  
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/hwikramasinha?s=21)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23f3f3f3.svg?style=for-the-badge&logo=google-chrome&logoColor=black)]()  
+## 💡 Fun Fact
+
+> "Code is like humor. When you have to explain it, it’s bad."  
+> — Cory House
 
 ---
 
-🌟 **Quote I Live By**:  
-> “The only way to do great work is to love what you do.” – *Steve Jobs*  
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Haritha0705&show_icons=true&theme=radical" alt="Haritha's GitHub Stats" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Haritha0705&layout=compact&theme=radical" alt="Haritha's Top Languages" height="165">
+</p>
 
 ---
 
-⚡ **Fun Fact**:  
-I thrive in **hot weather** but dream of **cool Nuwara Eliya mornings** with a cup of tea in hand! ☕  
+## 🔗 Connect With Me
+
+<!-- Add your social links below! -->
+<!-- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL) -->
+<!-- [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](YOUR_TWITTER_URL) -->
+<!-- [![Portfolio](https://img.shields.io/badge/-Portfolio-24292E?style=flat&logo=github&logoColor=white)](YOUR_PORTFOLIO_URL) -->
+
+---
+
+> Thanks for stopping by! Happy coding! 🚀
