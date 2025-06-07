@@ -17,7 +17,6 @@
 - 🌐 &nbsp;Frontend: Clean UI, seamless UX, performance-driven
 - ⚡ &nbsp;Backend: Rest APIs, scalable architectures, secure solutions
 - 🛠️ &nbsp;**Tech Explorer**: Always learning, experimenting, and building
-- 🏆 &nbsp;**Open Source Advocate:** I love collaborating and contributing
 
 ---
 
