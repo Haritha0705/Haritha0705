@@ -79,7 +79,7 @@ Highlight your best work! Uncomment and fill in your real projects.
   <a href="harithawikramasinha2003@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://YOUR-PORTFOLIO.com" target="_blank">
+  <a href="https://haritha-portfolio.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/-Portfolio-24292E?style=flat-square&logo=github&logoColor=white"/>
   </a>
 </p>
