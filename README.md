@@ -46,7 +46,6 @@
 
 - 🚀 Improving in **Spring Boot & Advanced Flutter**
 - 🧠 Learning **DevOps** and cloud basics
-- 🤝 Looking to collaborate on open source and cool side projects
 
 ---
 
