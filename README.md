@@ -76,9 +76,6 @@ Highlight your best work! Uncomment and fill in your real projects.
   <a href="www.linkedin.com/in/haritha-wikramasinha-11ab05271" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="harithawikramasinha2003@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"/>
-  </a>
   <a href="https://haritha-portfolio.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/-Portfolio-24292E?style=flat-square&logo=github&logoColor=white"/>
   </a>
