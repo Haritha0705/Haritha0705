@@ -68,13 +68,18 @@ Highlight your best work! Uncomment and fill in your real projects.
 
 ---
 
-## 🧠 LeetCode Stats & Profile 🏆
+## 🧠 LeetCode Stats <img src="https://cdn-icons-png.flaticon.com/512/873/873120.png" width="24" />
 
-Stay sharp! Here's where I level up my problem-solving:
+<div align="center">
 
-[![Haritha's LeetCode Stats](https://leetcard.jacoblin.cool/Haritha0705?theme=light)](https://leetcode.com/Haritha0705)  
+  <a href="https://leetcode.com/Haritha0705" target="_blank">
+    <img src="https://leetcard.jacoblin.cool/Haritha0705?theme=dark&ext=contest" alt="LeetCode Stats" width="50%" style="border-radius: 12px; box-shadow: 0 0 15px rgba(255,255,255,0.1);" />
+  </a>
 
---- 
+</div>
+
+---
+
 
 ## 🔗 Let's Connect!
 
