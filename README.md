@@ -68,7 +68,7 @@ Highlight your best work! Uncomment and fill in your real projects.
 
 ---
 
-## 🧠 LeetCode Stats <img src="https://cdn-icons-png.flaticon.com/512/873/873120.png" width="24" />
+## 🧠 LeetCode Stats
 
 <div align="center">
 
