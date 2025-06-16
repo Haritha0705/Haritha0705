@@ -68,15 +68,25 @@ Highlight your best work! Uncomment and fill in your real projects.
 
 ---
 
+## 🧠 LeetCode Stats & Profile 🏆
+
+Stay sharp! Here's where I level up my problem-solving:
+
+[![Haritha's LeetCode Stats](https://leetcard.jacoblin.cool/Haritha0705?theme=light)](https://leetcode.com/Haritha0705)  
+
+--- 
+
 ## 🔗 Let's Connect!
 
 <p>
-  <!-- Add your real links -->
-  <a href="www.linkedin.com/in/haritha-wikramasinha-11ab05271" target="_blank">
+  <a href="https://www.linkedin.com/in/haritha-wikramasinha-11ab05271" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://haritha-portfolio.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/-Portfolio-24292E?style=flat-square&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://leetcode.com/u/haritha0705/" target="_blank">
+    <img src="https://img.shields.io/badge/-LeetCode-FFA116?logo=leetcode&style=flat-square"/>
   </a>
 </p>
 
