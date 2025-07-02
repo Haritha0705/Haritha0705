@@ -59,11 +59,7 @@
 ---
 
 
-<!-- 
-Highlight your best work! Uncomment and fill in your real projects.
-- [Project Name](repo-link) – Short description, tech used, and maybe a star badge!
-- [Another Project](repo-link) – Why it's awesome.
--->
+
 
 ---
 
