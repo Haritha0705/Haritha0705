@@ -56,11 +56,6 @@
 - 🚀 Improving in **Spring Boot & Advanced Flutter**
 - 🧠 Learning **DevOps** and cloud basics
 
-
-
-
-
-
 ---
 
 ## 📊 GitHub Stats
@@ -83,7 +78,6 @@
 </div>
 
 ---
-
 
 ## 🔗 Let's Connect!
 
