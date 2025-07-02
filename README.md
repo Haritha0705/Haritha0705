@@ -58,7 +58,6 @@
 
 ---
 
-## 🌟 Featured Projects
 
 <!-- 
 Highlight your best work! Uncomment and fill in your real projects.
