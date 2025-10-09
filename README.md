@@ -11,17 +11,6 @@
 
 ### 🚀 About Me
 
-```typescript
-const haritha = {
-    location: "Sri Lanka 🇱🇰",
-    education: "University of Westminster 🎓",
-    currentFocus: ["Spring Boot", "Advanced Flutter", "DevOps"],
-    passions: ["Clean Code", "System Design", "Problem Solving"],
-    funFact: "I debug with console.log() and I'm not ashamed 😄",
-    availability: "Open to collaborate on interesting projects!"
-};
-```
-
 - 🔭 Building **scalable full-stack applications**
 - 🌱 Deep diving into **microservices architecture** & **cloud technologies**
 - 👨‍💻 All of my projects are available at [haritha-portfolio.vercel.app](https://haritha-portfolio.vercel.app/)
@@ -31,33 +20,50 @@ const haritha = {
 
 ---
 
-### 🛠️ Tech Stack
+### 🛠️ Tech Arsenal
 
-#### **Frontend Development**
+<div align="start">
+
+#### **Frontend** 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![SASS](https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 
-#### **Backend Development**
+#### **Backend** 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
-#### **Mobile Development**
+#### **Mobile** 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
-#### **Database & Tools**
+#### **Database** 
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+#### **DevOps & Tools** 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+</div>
 
 ---
 
@@ -90,27 +96,6 @@ const haritha = {
 
 </div>
 
----
-
-### 🎯 Current Focus
-
-```javascript
-while (alive) {
-    eat();
-    sleep();
-    code();
-    repeat();
-}
-```
-
-- 🔥 Building production-ready **REST APIs** with Spring Boot
-- 📱 Crafting beautiful **cross-platform mobile apps** with Flutter
-- ☁️ Exploring **AWS & Azure** for cloud deployment
-- 🐳 Learning **Docker & Kubernetes** for containerization
-- 📚 Reading **System Design** and **Clean Architecture**
-
----
-
 ### 🤝 Connect With Me
 
 <div align="center">
@@ -122,11 +107,7 @@ while (alive) {
 
 </div>
 
-<div align="center">
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-</div>
 
 
 <div align="center">
