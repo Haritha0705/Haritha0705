@@ -2,7 +2,7 @@
 
 # 👋 Hey, I'm Haritha Wikramasinha
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=600&lines=Full+Stack+Developer+%F0%9F%92%BB;Mobile+App+Creator+%F0%9F%93%B1;UI%2FUX+Enthusiast+%F0%9F%8E%A8;Problem+Solver+%F0%9F%A7%A9;Always+Learning+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=600&lines=Full+Stack+Developer;Mobile+App+Creator;UI%2FUX+Enthusiast;Problem+Solver;Always+Learning" alt="Typing SVG" />
 
 </div>
 
@@ -80,14 +80,6 @@
 </div>
 
 ---
-
-<div align="center">
-  
-  ![LeetCode](https://img.shields.io/badge/Dynamic_Programming-solving-orange?style=flat-square)
-  ![LeetCode](https://img.shields.io/badge/Data_Structures-mastering-blue?style=flat-square)
-  ![LeetCode](https://img.shields.io/badge/Algorithms-learning-green?style=flat-square)
-
-</div>
 
 ### 🤝 Connect With Me
 
